@@ -1,2 +1,3 @@
-Git is a useful tool.
+Git is a useful tool which requires relavant knowledge.
 It isn't user-friendly.
+
